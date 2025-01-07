@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Heart Disease Classifier
+Using the K-nearest-neighbours algorithm to implement a machine capable of determining whether or not a patient has heart disease based on their blood pressure and cholesterol.
